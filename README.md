@@ -11,7 +11,7 @@ The Ticket Booking System is designed to perform basic booking operations throug
 The application can later be upgraded with database integration, a GUI, or a complete web interface.
 
 
-⚙️ Features
+⚙️ Features 
 
 1) Add a new ticket booking
 
