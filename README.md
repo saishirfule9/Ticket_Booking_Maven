@@ -5,7 +5,7 @@ A simple Java based console application that manages ticket reservations. It all
 The project is structured cleanly and can be extended easily.
 
 
-📘 Project Overvie
+📘 Project Overview
 
 The Ticket Booking System is designed to perform basic booking operations through a console menu. It stores passenger details, ticket information, and booking status.
 The application can later be upgraded with database integration, a GUI, or a complete web interface.
